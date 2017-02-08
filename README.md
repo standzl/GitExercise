@@ -1,2 +1,5 @@
 # GitExercise
-Study Git 
+Study Git
+
+---------------------add content(2017-02-08 15:20)----------------------
+今天再来学习一下Git的知识 
