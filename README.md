@@ -6,3 +6,4 @@ Study Git
 
 
 add by main person 
+add by other person
